@@ -1,5 +1,18 @@
+@media (max-width: 960px){
+    .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    }
+}
+
 body{
     background-color: #87CEEB;
     color: #FF4500;
     text-align: center;
+}
+
+input{
+    margin: 10px;
 }
