@@ -16,3 +16,11 @@ body{
 input{
     margin: 10px;
 }
+
+footer {
+    width:100%;
+    display:flex;
+    justify-content: space-evenly;
+    font-size: 14px;
+    padding-top: 50px;
+  }
